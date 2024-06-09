@@ -1,0 +1,12 @@
+styles:flex :1=>flex grow:1%,flexShrink:1%,flexBasis:0.
+grow:ability to grow if necessary
+shrink:ability to shrink if necessary
+
+Components:
+text:h1 h2 ....
+view: div
+activity indicator : spinner to show loading
+touchableopacity : button
+flatlist : like a map function in react.for larger list smoooth list go for flatlist other wisr .map
+scrollview:magic box that can holds views and other component with a scroll.
+safeareaview:it provides a safe zone .insures that your app apear in visibe area
